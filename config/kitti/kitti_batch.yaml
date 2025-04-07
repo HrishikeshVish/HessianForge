@@ -47,7 +47,7 @@ loss:
   weight_e: 0.1
   hessian_loss_on: True
   weight_h: 0.1
-  hessian_norm_scale: 0.000000007
+  hessian_norm_scale: 0.000000003
   hessian_loss_scale: 0.00000000007
 continual:
   continual_learning_reg: False # using incremental mapping with regularization
